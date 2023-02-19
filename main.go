@@ -9,4 +9,5 @@ import (
 func main() {
 	res := mathsum.Sum(1, 2)
 	fmt.Println(res)
+	fmt.Println(res)
 }
